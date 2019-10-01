@@ -1,0 +1,11 @@
+{
+  "name": "pi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.539.0",
+    "dotenv": "^8.1.0",
+    "ip": "^1.1.5"
+  }
+}

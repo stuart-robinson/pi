@@ -1,0 +1,9 @@
+# misc
+.DS_Store
+.vscode
+.terraform
+.ignore
+.prettierrc
+.prettierrc.json
+.env
+.env.buildnode_modules

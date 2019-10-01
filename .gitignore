@@ -6,4 +6,5 @@
 .prettierrc
 .prettierrc.json
 .env
-.env.buildnode_modules
+.env.build
+node_modules
